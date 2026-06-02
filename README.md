@@ -1,1 +1,3 @@
-personal cs notes for selfstudy
+## personal cs notes for selfstudy
+
+*not serious nor profesh*
